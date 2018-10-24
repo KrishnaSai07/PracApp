@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ServiceWebApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: krishna
+Implementation-Vendor-Id: com.webapp
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ServiceWebApp
+Created-By: Maven Integration for Eclipse
+
